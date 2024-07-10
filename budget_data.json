@@ -1,0 +1,25 @@
+{
+    "initial_budget": 1000.0,
+    "expenses": [
+        {
+            "description": "Dinner 150",
+            "amount": 150.0
+        },
+        {
+            "description": "breakfast",
+            "amount": 100.0
+        },
+        {
+            "description": "sunglass",
+            "amount": 200.0
+        },
+        {
+            "description": "watch",
+            "amount": 300.0
+        },
+        {
+            "description": "food",
+            "amount": 20.0
+        }
+    ]
+}
